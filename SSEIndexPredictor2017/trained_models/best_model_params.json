@@ -1,0 +1,8 @@
+{
+    "batch_size": 64,
+    "num_layers": 1,
+    "hidden_dim": 128,
+    "lr": 0.00015453299584413898,
+    "model": "GRU",
+    "tw": 50
+}

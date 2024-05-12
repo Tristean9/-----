@@ -1,0 +1,9 @@
+{
+    "batch_size": 16,
+    "num_layers": 3,
+    "hidden_dim": 256,
+    "meta_hidden_dim1": 32,
+    "meta_hidden_dim2": 32,
+    "lr": 0.0005767310603627514,
+    "tw": 20
+}
